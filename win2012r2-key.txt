@@ -1,0 +1,7 @@
+安装密钥：
+标准版（Standard With Update1）：NB4WH-BBBYV-3MPPC-9RCMV-46XCB；
+数据中心版（Datacenter With Update1）：BH9T4-4N7CW-67J3M-64J36-WW98Y；
+
+cn_windows_server_2012_r2_with_update_x64_dvd_4048415.iso
+ed2k://|file|cn_windows_server_2012_r2_with_update_x64_dvd_4048415.iso|4684855296|338AA51AF8EF1B9895F17B5FE7636DE6|/
+
